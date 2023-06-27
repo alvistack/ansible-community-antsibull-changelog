@@ -1,0 +1,4 @@
+python-antsibull-changelog source: file-without-copyright-information
+python-antsibull-changelog source: no-debian-changes
+python-antsibull-changelog source: source-contains-prebuilt-windows-binary
+python-antsibull-changelog source: source-package-encodes-python-version
